@@ -19,3 +19,6 @@ You can define your own Nx2 numpy array with your own data.
 
 Tested with Python 2.6.5 on Ubuntu 10.04.4
 Results verified using Matlab
+
+
+Python 2.7
